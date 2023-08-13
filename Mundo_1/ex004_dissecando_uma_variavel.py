@@ -1,4 +1,4 @@
-a = input("Digite algo: ")
+a = input("Digite alguma coisa: ")
 print("O tipo primitivo desse valor é ", type(a))
 print("Só tem espaços ?", a.isspace())
 print("É um numero ?", a.isnumeric())
